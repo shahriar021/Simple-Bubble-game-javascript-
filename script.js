@@ -28,6 +28,7 @@ function runTimer() {
 function hitBox(){
     hitBubble = Math.floor(Math.random() * 10);
     document.querySelector("#hitBox").textContent = hitBubble;
+    
 }
 
 function increaseScore(){
