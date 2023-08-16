@@ -1,0 +1,3 @@
+# Simple-Bubble-game-javascript-
+
+### This is a simple javascript based game where player can get the score by hitting the given random number within a time limit...
