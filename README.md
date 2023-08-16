@@ -11,6 +11,8 @@
 
 --- 
 
+### this function is for runtime. Here i have used setInterval .
+
 ```js
    function runTimer() {
      var timeInt = setInterval(() => {
@@ -27,6 +29,8 @@
 ```
 ---
 
+### This is hit box function. In the hit box number will be genarate randomly by the Math.random() function.
+
 ```js
 
    function hitBox(){
@@ -38,6 +42,8 @@
 ```
 
 ---
+
+### This is score function. It will add the score only when the hit and clicked number match.
 
 ```js
 
