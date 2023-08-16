@@ -25,7 +25,34 @@
    }
 
 ```
+---
 
+```js
+
+   function hitBox(){
+       hitBubble = Math.floor(Math.random() * 10);
+       document.querySelector("#hitBox").textContent = hitBubble;
+       
+   }
+
+```
+
+---
+
+```js
+
+   function increaseScore(){
+   
+    score+=10;
+    document.querySelector("#score").textContent = score;
+     
+}
+
+```
+
+---
+
+<img src="./bubble.png">
    
 
 
